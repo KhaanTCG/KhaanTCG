@@ -11,7 +11,7 @@
 
 ---
 
-- Java Dev ☕️ | Microservices, Spring Boot & best practices. Sharing code and tips.
+- Java Dev ☕️ |Sharing code and tips.
 
 ## 🛠 &nbsp;Tech Stack
 
