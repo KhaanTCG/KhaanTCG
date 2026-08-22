@@ -79,7 +79,7 @@ I am open to **trainee, internship, or junior** opportunities where I can learn 
 
 <div align="center">
   <br />
-  <i>“Learning to code is not about memorizing spells; it is about solving problems one step at a time.”</i>
+  <i>“Like a Pokémon Trainer, I level up by facing problems, learning from every battle, and evolving one step at a time.”</i>
   <br /><br />
   <img width="100%" height="100" src="https://capsule-render.vercel.app/api?type=waving&color=0:A982C3,50:423181,100:201835&height=100&section=footer" alt="Footer" />
 </div>
