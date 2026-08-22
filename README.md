@@ -6,6 +6,7 @@
   <h1>Hi, I'm Khaan 👋</h1>
   <p><strong>Java Developer in Training</strong> · Building useful applications and learning through real-world projects.</p>
 
+  <a href="https://khaantcg.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20JhovanWeb-A982C3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit JhovanWeb portfolio" /></a>
   <a href="https://github.com/KhaanTCG?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-423181?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
   <img src="https://komarev.com/ghpvc/?username=KhaanTCG&style=for-the-badge&color=423181&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
