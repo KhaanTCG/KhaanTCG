@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="128" src="https://capsule-render.vercel.app/api?type=rect&color=0:201835,55:33245F,100:423181&height=128&section=header&text=Jhovan%20Hern%C3%A1ndez&fontColor=FFFFFF&fontSize=36&fontAlignY=40&desc=Java%20Developer%20in%20Training%20%C2%B7%20Monterrey%2C%20Mexico&descAlignY=66&descSize=16" alt="Jhovan Hernández — Java Developer in Training" />
+  <img width="100%" src="./assets/images/profile-particles.gif" alt="Animated purple particles behind Jhovan Hernández — Java Developer in Training" />
 
   <p>Building useful Java software from real-world problems.</p>
 
