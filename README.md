@@ -1,10 +1,7 @@
 <div align="center">
-  <a href="https://khaantcg.github.io/">
-    <img width="100%" src="./assets/images/khaantcg-profile-hero.png" alt="Abstract purple digital energy representing KhaanTCG" />
-  </a>
+  <img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=waving&color=0:201835,50:423181,100:A982C3&height=150&section=header&text=KHAAN%20TCG&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Java%20Developer%20in%20Training&descAlignY=58&descSize=18" alt="KhaanTCG" />
 
-  <br />
-  <img src="./LOGO%20KHAAN-03.png" width="250" alt="KhaanTCG logo" />
+  <img src="./LOGO%20KHAAN-03.png" width="300" alt="KhaanTCG logo" />
 
   <h1>Hi, I'm Jhovan 👋</h1>
   <p><strong>Java Developer in Training</strong> · Turning real needs into useful, well-documented software.</p>
