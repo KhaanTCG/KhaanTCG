@@ -25,8 +25,8 @@ I am currently strengthening my Java fundamentals, object-oriented programming, 
 <table>
   <tr>
     <td width="70%">
-      <h3>KHN Cotización</h3>
-      <p>A desktop application for creating professional PDF quotations. It allows each business to configure its own identity, manage clients and catalog items, calculate amounts precisely, store local history, and generate documents ready to share.</p>
+      <h3>KHN Cotización · v1.4.3</h3>
+      <p>A professional desktop application for creating branded PDF quotations. Each business can configure its own identity and logo, manage clients and catalog items, calculate amounts precisely, keep local history and backups, preview documents, and prepare a WhatsApp-ready share flow.</p>
       <p>
         <code>Java 17</code>
         <code>Swing</code>
@@ -34,7 +34,7 @@ I am currently strengthening my Java fundamentals, object-oriented programming, 
         <code>Apache PDFBox</code>
         <code>Gson</code>
       </p>
-      <a href="https://github.com/KhaanTCG/cotizador-terracerias">View repository →</a>
+      <a href="https://github.com/KhaanTCG/khn-cotizacion">View product repository →</a>
     </td>
     <td align="center" width="30%">📄<br><strong>Desktop software</strong><br>with a business focus</td>
   </tr>
@@ -63,7 +63,7 @@ I am currently strengthening my Java fundamentals, object-oriented programming, 
 | --- | --- | --- |
 | Fundamentals | Syntax, variables, conditionals, and methods | [java-basics](https://github.com/KhaanTCG/java-basics) |
 | Logic and collections | Menus, loops, `ArrayList`, and validation | [inventario-java](https://github.com/KhaanTCG/inventario-java) |
-| Real-world project | OOP, PDF generation, local persistence, UI, and testing | [KHN Cotización](https://github.com/KhaanTCG/cotizador-terracerias) |
+| Real-world project | OOP, PDF generation, local persistence, UI, testing, packaging, and product design | [KHN Cotización](https://github.com/KhaanTCG/khn-cotizacion) |
 | Next level | SQL, Spring Boot, REST APIs, and backend development | In progress ⚡ |
 
 ## 🌱 What I want to master next
