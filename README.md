@@ -1,25 +1,16 @@
 <div align="center">
-  <img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=waving&color=0:201835,50:423181,100:A982C3&height=150&section=header&text=KHAAN%20TCG&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Java%20Developer%20in%20Training&descAlignY=58&descSize=18" alt="KhaanTCG" />
+  <img width="100%" height="128" src="https://capsule-render.vercel.app/api?type=rect&color=0:201835,55:33245F,100:423181&height=128&section=header&text=Jhovan%20Hern%C3%A1ndez&fontColor=FFFFFF&fontSize=36&fontAlignY=40&desc=Java%20Developer%20in%20Training%20%C2%B7%20Monterrey%2C%20Mexico&descAlignY=66&descSize=16" alt="Jhovan Hernández — Java Developer in Training" />
 
-  <img src="./LOGO%20KHAAN-03.png" width="300" alt="KhaanTCG logo" />
+  <p>Building useful Java software from real-world problems.</p>
 
-  <h1>Hi, I'm Jhovan 👋</h1>
-  <p><strong>Java Developer in Training</strong> · Turning real needs into useful, well-documented software.</p>
-
-  <a href="https://khaantcg.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20JhovanWeb-A982C3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit JhovanWeb portfolio" /></a>
-  <a href="https://github.com/KhaanTCG?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-423181?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <img src="https://komarev.com/ghpvc/?username=KhaanTCG&style=for-the-badge&color=423181&label=PROFILE+VIEWS" alt="Profile views" />
-  <br /><br />
-  <a href="#-about-me">About</a> ·
-  <a href="#-featured-project">Featured project</a> ·
-  <a href="#-stack-i-am-building">Stack</a> ·
-  <a href="#-learning-path">Learning path</a> ·
-  <a href="#-opportunities">Opportunities</a>
+  <a href="https://khaantcg.github.io/"><img src="https://img.shields.io/badge/Portfolio-JhovanWeb-423181?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit JhovanWeb portfolio" /></a>
+  <a href="https://github.com/KhaanTCG?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-423181?style=flat-square&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KhaanTCG&style=flat-square&color=A982C3&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 01 / About
 
 <table>
   <tr>
@@ -40,7 +31,7 @@
 
 I am building software with the care I would expect as a user: clear flows, reliable calculations, useful documentation, and an interface that feels intentional. I do not just want code that works—I want to understand why it works and how to improve it.
 
-## 🚀 Featured project
+## 02 / Featured work
 
 <div align="center">
   <a href="https://github.com/KhaanTCG/khn-cotizacion">
@@ -69,15 +60,15 @@ A professional desktop application for creating branded PDF quotations. Each bus
   &nbsp; <a href="https://github.com/KhaanTCG/khn-cotizacion"><strong>Explore the product repository →</strong></a>
 </p>
 
-## 🧰 Stack I am building
+## 03 / Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Java%2017-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" />
-  <img src="https://img.shields.io/badge/OOP-423181?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Object-oriented programming" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Swing-201835?style=for-the-badge&logo=openjdk&logoColor=white" alt="Swing" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17" />
+  <img src="https://img.shields.io/badge/OOP-423181?style=flat-square&logo=coffeescript&logoColor=white" alt="Object-oriented programming" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Swing-201835?style=flat-square&logo=openjdk&logoColor=white" alt="Swing" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <details>
@@ -86,7 +77,7 @@ A professional desktop application for creating branded PDF quotations. Each bus
   SQL fundamentals, Spring Boot, automated testing, REST APIs, HTML, CSS, JavaScript, and Python.
 </details>
 
-## 📚 Learning path
+## 04 / Learning path
 
 | Stage | What I practice | Evidence |
 | --- | --- | --- |
@@ -95,7 +86,7 @@ A professional desktop application for creating branded PDF quotations. Each bus
 | Real-world project | OOP, PDF generation, local persistence, UI, testing, packaging, and product design | [KHN Cotización](https://github.com/KhaanTCG/khn-cotizacion) |
 | Next level | SQL, Spring Boot, REST APIs, and backend development | In progress ⚡ |
 
-## 🌱 Next evolution
+## 05 / Next evolution
 
 | Next skill | Why it matters to me |
 | --- | --- |
@@ -104,7 +95,7 @@ A professional desktop application for creating branded PDF quotations. Each bus
 | Automated testing | Change code with confidence instead of crossing my fingers. |
 | Product polish | Make software easy to install, use, and explain in an interview. |
 
-## 🤝 Opportunities
+## 06 / Opportunities
 
 <table>
   <tr>
@@ -127,7 +118,7 @@ I am ready to learn from a team, contribute with discipline, and keep building u
 
 <div align="center">
   <br />
-  <i>“Like a Pokémon Trainer, I level up by facing problems, learning from every battle, and evolving one step at a time.”</i>
+  <i>“I level up by facing real problems, learning from every build, and improving one step at a time.”</i>
   <br /><br />
-  <img width="100%" height="100" src="https://capsule-render.vercel.app/api?type=waving&color=0:A982C3,50:423181,100:201835&height=100&section=footer" alt="Footer" />
+  <img width="100%" height="70" src="https://capsule-render.vercel.app/api?type=rect&color=0:423181,100:201835&height=70&section=footer" alt="Footer" />
 </div>
