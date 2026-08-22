@@ -36,7 +36,11 @@ I am currently strengthening my Java fundamentals, object-oriented programming, 
       </p>
       <a href="https://github.com/KhaanTCG/khn-cotizacion">View product repository →</a>
     </td>
-    <td align="center" width="30%">📄<br><strong>Desktop software</strong><br>with a business focus</td>
+    <td align="center" width="30%">
+      <a href="https://github.com/KhaanTCG/khn-cotizacion">
+        <img src="./assets/images/khn-cotizacion-preview.png" alt="KHN Cotización first-run setup preview" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
 
